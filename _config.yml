@@ -3,7 +3,7 @@ title: CoCalc Tutorial
 motto: A tutorial for anyone wanting to use CoCalc, especially for teaching
 description: A tutorial for anyone wanting to use CoCalc, especially for teaching
 baseurl: ""
-url: "https://tutorial.cocalc.com" # the base hostname & protocol for your site
+url: "https://cocalc_tutorial_es.github.io" # the base hostname & protocol for your site
 
 footer-links:
   github: sagemathinc/cocalc
